@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ASCII Art Generator": {
+      "commandName": "Project",
+      "commandLineArgs": "\"LicensePhotoBitmap.bmp\""
+    }
+  }
+}
